@@ -3,7 +3,7 @@ const paper = "Бумага";
 const scissors = "Ножницы";
 const draw = "Ничья";
 const PlayerWin = "Человек";
-const ComputerWin = "Компьютер просто";
+const ComputerWin = "Компь просто";
 const mChoice = manInput;
 const pChoice = pcInput; 
 
